@@ -1,0 +1,12 @@
+{
+  "name": "skill-creator",
+  "version": "1.0.0",
+  "description": "Skill Creator - 创建和管理 OpenClaw Skills",
+  "main": "scripts/creator.ts",
+  "scripts": {
+    "create": "npx ts-node scripts/creator.ts create"
+  },
+  "keywords": ["skill-creator", "scaffolding", "generator", "openclaw"],
+  "author": "",
+  "license": "MIT"
+}
