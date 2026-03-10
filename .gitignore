@@ -7,6 +7,16 @@ node_modules/
 *.secret
 .secrets/
 
+# OpenClaw Core Files - Never commit these
+SOUL.md
+IDENTITY.md
+HEARTBEAT.md
+MEMORY.md
+USER.md
+AGENTS.md
+TOOLS.md
+BOOTSTRAP.md
+
 # Temp files
 tmp/
 temp/
