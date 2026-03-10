@@ -1,0 +1,12 @@
+{
+  "name": "feishu-voice",
+  "version": "1.0.0",
+  "description": "Send voice messages to Feishu (Lark)",
+  "main": "scripts/send-voice.ts",
+  "scripts": {
+    "send": "npx ts-node scripts/send-voice.ts"
+  },
+  "keywords": ["feishu", "lark", "voice", "tts", "skill"],
+  "author": "",
+  "license": "MIT"
+}
