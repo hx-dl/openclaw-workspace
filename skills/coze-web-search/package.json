@@ -1,0 +1,10 @@
+{
+  "name": "coze-web-search",
+  "version": "1.0.0",
+  "description": "Coze Web Search - 网页搜索",
+  "main": "scripts/search.ts",
+  "scripts": {},
+  "keywords": ["coze", "web-search", "search", "skill"],
+  "author": "",
+  "license": "MIT"
+}

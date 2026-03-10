@@ -1,0 +1,10 @@
+{
+  "name": "coze-web-fetch",
+  "version": "1.0.0",
+  "description": "Coze Web Fetch - 网页内容提取",
+  "main": "scripts/fetch.ts",
+  "scripts": {},
+  "keywords": ["coze", "web-fetch", "content-extraction", "skill"],
+  "author": "",
+  "license": "MIT"
+}

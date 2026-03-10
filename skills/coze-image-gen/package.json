@@ -1,0 +1,10 @@
+{
+  "name": "coze-image-gen",
+  "version": "1.0.0",
+  "description": "Coze Image Generation - 图片生成",
+  "main": "scripts/generate.ts",
+  "scripts": {},
+  "keywords": ["coze", "image-generation", "ai-art", "skill"],
+  "author": "",
+  "license": "MIT"
+}
